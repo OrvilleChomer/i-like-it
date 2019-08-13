@@ -1,9 +1,9 @@
-/*
+/*****************************************************************************
    i-like-it.js
    
    expecting JQuery for some functionality...
 
-*/
+ *****************************************************************************/
 
 
 const sILikeItUrl = "https://i-like-it.glitch.me/api";
@@ -267,8 +267,6 @@ function basicCallFailure(returnedData) {
     apiResultsNd.innerHTML = "basic call failure";
   } // end if
 } // end of function basicCallFailure()
-
-
 
 
 
